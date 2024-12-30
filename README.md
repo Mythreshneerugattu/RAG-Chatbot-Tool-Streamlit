@@ -1,4 +1,3 @@
-```markdown
 # RAG Chatbot Tool with Streamlit
 
 This project is a Retrieval-Augmented Generation (RAG) chatbot tool built using Streamlit. It allows users to interact with a chatbot that retrieves information from a provided document (such as a PDF) and generates answers based on the content. The system is powered by OpenAI's language models, utilizing the LangChain library for document processing and embeddings.
@@ -9,12 +8,12 @@ This project is a Retrieval-Augmented Generation (RAG) chatbot tool built using 
 - Retrieve relevant information from the document based on user queries.
 - Chat with the model powered by OpenAI's language models.
 - Built with LangChain, Streamlit, and other modern tools for AI-based document retrieval and interaction.
-
-## Requirements
+```markdown
+# Requirements
 
 Before you start, make sure you have Python 3.x installed on your system. You can install the required dependencies using the `requirements.txt` file provided in the project.
 
-### Dependencies:
+# Dependencies:
 - `langchain`
 - `langchain_community`
 - `PyPDF2`
@@ -28,6 +27,7 @@ Before you start, make sure you have Python 3.x installed on your system. You ca
 - `InstructorEmbedding`
 - `sentence-transformers`
 - `pydantic`
+```
 
 ## How to Set Up and Run the Application
 
