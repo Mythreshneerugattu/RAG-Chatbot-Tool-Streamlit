@@ -111,7 +111,7 @@ This will launch the application and open it in your default web browser. You sh
 3. **Querying**: Users can ask questions, and the chatbot will search for relevant information in the document and generate an answer using OpenAI's model.
 4. **Chat Interface**: The chatbot maintains a conversational state, remembering previous queries and responses during the interaction.
 
-![Screenshot](Screenshot(14).png)
+![Screenshot](screenshot.png)
 
 
 
